@@ -6,7 +6,7 @@ body{
     border-radius: 10%;
     text-align: center;
     width: 20rem;
-    height: 15rem;
+    height: 15.5rem;
     background-color: rgb(240, 234, 234);
     margin-top: 10%;
     margin-left: 30%;
@@ -24,4 +24,5 @@ body{
     background-color: navy;
     color: aliceblue;
     cursor: pointer;
+
 }
